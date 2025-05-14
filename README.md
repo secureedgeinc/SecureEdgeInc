@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is where all scripts created for SecureEdgeInc will be stored. 
+
 <!--
 **secureedgeinc/SecureEdgeInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
